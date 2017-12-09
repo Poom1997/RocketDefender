@@ -1,11 +1,11 @@
 # INTRODUCTION
 
   This program is created for <br>
-  13006101 - Object-Oriented Concepts and Programming<br>
+  13006101 -  Introduction to Computers and Programming<br>
   
   End-Of-Term Project<br>
 
-  Software Engineering - Year 1 (Sem 2/2015)<br>
+  Software Engineering - Year 1 (Sem 1/2015)<br>
   International College<br>
   King Mongkut's Institute of Technology Ladkrabang (KMITL)<br>
 
@@ -15,7 +15,8 @@
 
 # INITIAL DESCRIPTION
 
-  This is a program created to demonstrate the C++ Programming Language
+  This is a program created to demonstrate the Python Programming Language using 
+  the PyGame Library.
 
 # ADDITIONAL DESCRIPTION
 
@@ -24,4 +25,4 @@
 # 
 **PROGRAM VERSION: 1.0.0<br>**
 
-THIS DOCUMENT IS CREATED AS-OF 12 DECEMBER 2017<br>
+THIS DOCUMENT IS EDITED AS-OF 12 DECEMBER 2017<br>
